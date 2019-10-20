@@ -12,10 +12,13 @@ For more examples, please visit `examples` directory
 
 ##### Sorting algorithms included in sorty
  
+    Heap Sort
+    Merge Sort
     Quick Sort
     Bubble Sort
     Insertion Sort
     Selection Sort
+    Merge Sort Iterative
     Recursive Bubble Sort
     Recursive Insertion Sort
 
