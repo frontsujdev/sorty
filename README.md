@@ -4,6 +4,7 @@
 ##### Incase `v install ` doesn't work properly, please follow the following steps to install
 
     1. git clone https://github.com/amalshaji/sorty
+    2. cd sorty
     2. v build sorty
 
 Now you can use `import sorty` to call `sorty` module
