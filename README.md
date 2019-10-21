@@ -1,4 +1,4 @@
-### Sorty Package for `v` Programming language
+### Sorty Package for `v` Programming language (currently only supports integer sorting)
 
 ##### Install this package : `v install amalshaji.sorty`
 ##### Incase `v install ` doesn't work properly, please follow the following steps to install
@@ -16,6 +16,7 @@ For more examples, please visit `examples` directory
     Heap Sort
     Merge Sort
     Quick Sort
+    Radix Sort
     Bubble Sort
     Insertion Sort
     Selection Sort
